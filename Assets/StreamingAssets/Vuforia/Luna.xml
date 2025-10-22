@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="phone7" size="5.000000 4.444445" />
+    <ImageTarget name="Rover9" size="5.000000 5.075758" />
+    <ImageTarget name="box10" size="5.000000 4.444445" />
+    <ImageTarget name="car8" size="5.000000 4.444445" />
+    <ImageTarget name="light11" size="5.000000 4.444445" />
+    <ImageTarget name="wasser6" size="5.000000 4.184514" />
+    <ImageTarget name="house4" size="5.000000 4.546296" />
+    <ImageTarget name="sun3" size="5.000000 4.546296" />
+    <ImageTarget name="energy2" size="5.000000 4.444445" />
+    <ImageTarget name="computer1" size="5.000000 4.546296" />
+    <ImageTarget name="tree5" size="5.000000 4.546296" />
+  </Tracking>
+</QCARConfig>
