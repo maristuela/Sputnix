@@ -62,6 +62,8 @@
 ### 🔗 Установочный файл
 [![Скачать APK](https://img.shields.io/badge/Скачать-APK_файл-brightgreen.svg?style=for-the-badge)](https://disk.yandex.ru/d/ymRI76ljkNHWvA)
 
+[![Скачать для IOS](https://disk.yandex.ru/d/OcY-2I251MUdIw).
+
 ### 🔗 Маркеры для печати
 [![Маркеры](https://img.shields.io/badge/Скачать-Маркеры_для_печати-blue.svg?style=for-the-badge)](https://disk.yandex.ru/d/DfJjTAB0cm6fyA)
 
