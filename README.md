@@ -62,8 +62,8 @@
 ### 🔗 Установочный файл
 [![Скачать APK](https://img.shields.io/badge/Скачать-APK_файл-brightgreen.svg?style=for-the-badge)](https://disk.yandex.ru/d/ymRI76ljkNHWvA)
 
-🔗 Установка на iOS
-https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_iOS-lightgrey.svg?style=for-the-badge
+### 🔗 Установка на iOS
+[![Скачать iOS](https://img.shields.io/badge/Скачать-версия_для_iOS-lightgrey.svg?style=for-the-badge)](https://disk.yandex.ru/d/OcY-2I251MUdIw)
 
 ### 🔗 Маркеры для печати
 [![Маркеры](https://img.shields.io/badge/Скачать-Маркеры_для_печати-blue.svg?style=for-the-badge)](https://disk.yandex.ru/d/DfJjTAB0cm6fyA)
